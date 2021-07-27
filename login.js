@@ -1,7 +1,7 @@
 fixture`Log in`.page("https://www.etalente.co.za/");
 
-const email = "alric9382@gmail.com";
-const password = "Mathilde07";
+const email = "";
+const password = "";
 
 test("Log in", async (t) => {
   await t
